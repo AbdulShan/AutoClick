@@ -1,4 +1,4 @@
-# AutoClick
+# AutoClicker
 
 
 1.open terminal and type: 
